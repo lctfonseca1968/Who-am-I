@@ -33,7 +33,7 @@ Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança 
 
 #### 🌱 [Instituto Sementes do Amanhã](https://institutosementesdoamanha.org.br)
 > **Plataforma Institucional para Organização Não Governamental (ONG)**
-* **Atuação**: Conception, desenvolvimento web e otimização da presença digital para impacto social.
+* **Atuação**: Concepção, desenvolvimento web e otimização da presença digital para impacto social.
 * **Escopo**: Estruturação de canal digital para divulgação de causas e projetos sociais, facilidade de engajamento para voluntários e captação de recursos.
 * **Tecnologias/Métodos**: Gestão de Conteúdo, SEO, Otimização Web e Design Responsivo.
 
@@ -44,7 +44,7 @@ Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança 
 * **CSPTECH (Product Owner):** Estruturação do backlog do zero para a implantação de nova seguradora de Grandes Riscos, homologação do ERP I4Pro e arquitetura de integração financeira ITG / SUSEP.
 * **GTI Solution:** Gestão de backlog e melhoria contínua em ERP de Afinidades, reduzindo em 20% o tempo de atendimento de chamados.
 * **BRINKS:** Condução do projeto de monitoramento online de frota (otimização de 50% em eficiência) e especificação de APIs.
-* **Nava / Liberty Seguros:** Implementação do projeto SRO SUSEP e otimização de rotinas ETL via Powercenter, gerando redução de 80% no tempo de processing de arquivos.
+* **Nava / Liberty Seguros:** Implementação do projeto SRO SUSEP e otimização de rotinas ETL via Powercenter, gerando redução de 80% no tempo de processamento de arquivos.
 
 ---
 
@@ -61,10 +61,9 @@ Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança 
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lctfonseca1968&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lctfonseca1968&layout=compact&theme=dark" alt="Top Languages" height="150"/>
-</p>
+![Luis Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lctfonseca1968&show_icons=true&theme=dark&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lctfonseca1968&layout=compact&theme=dark)
 
 ---
 
