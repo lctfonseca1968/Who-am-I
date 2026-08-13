@@ -63,10 +63,9 @@ Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lctfonseca1968&theme=react-dark)](https://github.com/lctfonseca1968)
 
-<p align="left">
-  <img src="https://github-readme-stats.qnimate.com/api?username=lctfonseca1968&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.qnimate.com/api/top-langs/?username=lctfonseca1968&layout=compact&theme=dark" alt="Top Languages" height="150"/>
-</p>
+## 📊 GitHub Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lctfonseca1968&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 📫 Conecte-se comigo
