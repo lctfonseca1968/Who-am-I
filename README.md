@@ -59,15 +59,6 @@ Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança 
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lctfonseca1968&theme=react-dark)](https://github.com/lctfonseca1968)
-
-## 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lctfonseca1968&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
-
 ## 📫 Conecte-se comigo
 
 * **LinkedIn:** [linkedin.com/in/luis-carlos-thadeu-da-fonseca-productowner](https://www.linkedin.com/in/luis-carlos-thadeu-da-fonseca-productowner/)
