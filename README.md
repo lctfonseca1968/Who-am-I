@@ -61,10 +61,7 @@ Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança 
 
 ## 📊 GitHub Stats
 
-![Luis Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lctfonseca1968&show_icons=true&theme=dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lctfonseca1968&layout=compact&theme=dark)
-
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lctfonseca1968&theme=react-dark)](https://github.com/lctfonseca1968)
 ---
 
 ## 📫 Conecte-se comigo
