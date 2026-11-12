@@ -41,6 +41,7 @@ Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança 
 
 ## 💼 Destaques Profissionais
 
+* **CSPTECH (Gerente de Projetos):** Gerenciando projeto AVANTE na Ipiranga ULTRA - Projeto de Integração SIBEL/URA/CHATBOT com SAP
 * **CSPTECH (Product Owner):** Estruturação do backlog do zero para a implantação de nova seguradora de Grandes Riscos, homologação do ERP I4Pro e arquitetura de integração financeira ITG / SUSEP.
 * **GTI Solution:** Gestão de backlog e melhoria contínua em ERP de Afinidades, reduzindo em 20% o tempo de atendimento de chamados.
 * **BRINKS:** Condução do projeto de monitoramento online de frota (otimização de 50% em eficiência) e especificação de APIs.
