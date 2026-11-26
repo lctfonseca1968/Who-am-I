@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Luis Carlos Thadeu da Fonseca
 
-### **Product Owner | Senior Systems & Business Analyst**
+### **Gerente de Projetos | Product Owner | Senior Systems & Business Analyst**
 
 Com **27+ anos de trajetória na TI**, atuo de forma estratégica na liderança de requisitos, gestão de backlog e integração de ecossistemas complexos no **setor de seguros** (Vida, Auto, Grandes Riscos, SRO/SUSEP, ERPs como I4Pro). Minha atuação conecta visões de negócios a entregas técnicas eficientes utilizando ritos Ágeis (SCRUM, Kanban).
 
